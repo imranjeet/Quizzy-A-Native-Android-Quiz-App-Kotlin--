@@ -1,6 +1,7 @@
 ## Quizzy: A Native Android Quiz App (Kotlin)
 ![](https://img.shields.io/github/last-commit/imranjeet/Quizzy-A-Native-Android-Quiz-App-Kotlin--.svg?label=last%20update&style=flat)
 
+
 QuizMaster is a feature-rich quiz application designed for Android users, powered by Firebase for seamless backend operations. With QuizMaster, users can explore an extensive collection of quizzes across various subjects while enjoying the benefits of Firebase's robust backend services.
 
 ### Some Screenshots

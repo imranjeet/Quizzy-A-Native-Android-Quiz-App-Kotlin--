@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinFragment"
+        android:icon="@drawable/spin"
+        android:title="@string/spin" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/history"
+        android:title="@string/history" />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/user"
+        android:title="@string/profile" />
+</menu>
